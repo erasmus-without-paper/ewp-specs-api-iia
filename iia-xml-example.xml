@@ -1,0 +1,25 @@
+<iia>
+    <uuid>dasdwer-43jksd-dfas77-fsf3wrsd</uuid>
+    <version>2</version>
+    <start>2016-01-01</start>
+    <end>2018-12-31</end>
+    <partners>
+        <partner>
+            <erasmusCode>N OSLO1</erasmusCode>
+            <name>University of Oslo</name>
+            <country>NO</country>
+            <url>http://www.uio.no</url>
+            <description>A norwegian university</description>
+            <requiredLanguageCompetence>EN</requiredLanguageCompetence>
+        </partner>
+        <partner>
+            <erasmusCode>S STOC1</erasmusCode>
+            <name>University of Stockholm</name>
+            <country>SE</country>
+            <url>http://www.unis.se</url>
+            <description>A swedish university</description>
+            <requiredLanguageCompetence>EN</requiredLanguageCompetence>
+        </partner>
+    </partners>
+    <text>Changed the URL for University of Stockholm</text>
+</iia>

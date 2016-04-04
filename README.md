@@ -7,7 +7,7 @@ Inter Institutional Agreement (IIA) API
 Summary
 -------
 
-This document describes the ** IIA API **. This is the API's needed to exchange interinstitutional agreements between two
+This document describes the **IIA API**. This is the API's needed to exchange interinstitutional agreements between two
 or more partners. There is need for API's on both sides to be able to exchange this information.
 
 Participants
@@ -30,3 +30,12 @@ Examples to come later. It is the Masters responsibility to keep track of change
 changed by the master (based on the change requests), the version of the IIA is changed, so the other partners can see what type
 of version the document is in. There is some manual labour required by the Master, both in merging changes and keeping track of 
 approvals.
+
+Implementation
+--------------
+
+The IIA-API will contain functionality for both the Master and the Slave; if you implement the IIA-API you can be both Master 
+and Slave in the network.
+
+* **Master API** - Receive a Slave response (Approve, Reject, Change) (Examle, XSD)
+* **Slave API** - Receive a Master request (IIA XML) (Example, XSD)

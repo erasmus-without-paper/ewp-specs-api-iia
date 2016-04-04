@@ -37,5 +37,5 @@ Implementation
 The IIA-API will contain functionality for both the Master and the Slave; if you implement the IIA-API you can be both Master 
 and Slave in the network.
 
-* **Master API** - Receive a Slave response (Approve, Reject, Change)
+* **Master API** - Receive a Slave response (Accept, Reject, Change)
 * **Slave API** - Receive a Master request (IIA XML)

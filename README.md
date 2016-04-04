@@ -22,7 +22,7 @@ Participants
 Basic flow
 ----------
 
-Image
+![Flow](API_IIA_v01.png)
 
 The Master initiates the IIA and sends the IIA-XML to all partners (slaves). The slaves can then either approve, reject or propose
 changes to the IIA. This will be relayed to the master, using an XML with both structured and unstructured data (XML with text). 

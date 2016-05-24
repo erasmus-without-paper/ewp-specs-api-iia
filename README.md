@@ -1,6 +1,8 @@
 DEPRECATED - Interinstitutional Agreement (IIA) API
 ======================================
 
+**DEPRECATED: This proposal was replaced by [IIAs API](https://github.com/erasmus-without-paper/ewp-specs-api-iias).**
+
 * [What is the status of this document?][statuses]
 * [See the index of all other EWP Specifications][develhub]
 

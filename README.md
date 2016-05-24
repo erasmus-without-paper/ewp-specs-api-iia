@@ -1,4 +1,4 @@
-Interinstitutional Agreement (IIA) API
+DEPRECATED - Interinstitutional Agreement (IIA) API
 ======================================
 
 * [What is the status of this document?][statuses]
